@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/okl_test.rb",
+    "okl_test.gemspec",
     "spec/okl_test_spec.rb",
     "spec/spec_helper.rb"
   ]
